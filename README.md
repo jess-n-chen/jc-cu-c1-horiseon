@@ -10,7 +10,7 @@
 - [General Info](#general-information)
 - [Project Requirements](#project-requirements)
 - [Screenshots](#screenshots)
-- [Source Code](#acknowledgements)
+- [Source Code](#source-code)
 - [Contact](#contact)
 
 ## General Information
@@ -49,8 +49,8 @@ THEN I find a concise, descriptive title - done
 
 ## Screenshots
 
-![Example screenshot 1](./assets/images/Horiseon Homepage 1.png)
-![Example screenshot 2](./assets/images/Horiseon Homepage 2.png)
+![Website screenshot 1](./assets/images/Horiseon-Homepage-1.png)
+![Website screenshot 2](./assets/images/Horiseon-Homepage-2.png)
 
 ## Source Code
 
